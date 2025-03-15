@@ -1,0 +1,174 @@
+{
+  "users": {
+    "6459253633": {
+      "username": "SatsNova",
+      "joined_date": "2025-03-14T18:38:28.517157",
+      "is_pro": true,
+      "free_predictions_left": 0,
+      "free_expiry": "2025-03-21T18:38:28.517151",
+      "prediction_history": [
+        {
+          "app": "BDGWIN",
+          "game": "WINGO",
+          "prediction": "Small",
+          "correct": null,
+          "timestamp": "2025-03-14T18:39:11.686204"
+        },
+        {
+          "app": "BDGWIN",
+          "game": "WINGO",
+          "prediction": "Small",
+          "correct": null,
+          "timestamp": "2025-03-14T18:45:30.518516"
+        },
+        {
+          "app": "BDGWIN",
+          "game": "WINGO",
+          "prediction": "Small",
+          "correct": null,
+          "timestamp": "2025-03-14T18:51:18.370074"
+        },
+        {
+          "app": "BDGWIN",
+          "game": "WINGO",
+          "prediction": "Small",
+          "correct": null,
+          "timestamp": "2025-03-14T18:52:33.195752"
+        },
+        {
+          "app": "BDGWIN",
+          "game": "WINGO",
+          "prediction": "Small",
+          "correct": null,
+          "timestamp": "2025-03-14T18:56:01.648964"
+        },
+        {
+          "app": "BDGWIN",
+          "game": "WINGO",
+          "prediction": "Small",
+          "correct": null,
+          "timestamp": "2025-03-14T19:42:30.837060"
+        },
+        {
+          "app": "DAMAN",
+          "game": "WINGO",
+          "prediction": "Small",
+          "correct": null,
+          "timestamp": "2025-03-15T11:45:21.250173"
+        },
+        {
+          "app": "DAMAN",
+          "game": "WINGO",
+          "prediction": "Small",
+          "correct": null,
+          "timestamp": "2025-03-15T11:46:52.949169"
+        },
+        {
+          "app": "DAMAN",
+          "game": "WINGO",
+          "prediction": "Small",
+          "correct": null,
+          "timestamp": "2025-03-15T11:57:31.532659"
+        },
+        {
+          "app": "DAMAN",
+          "game": "WINGO",
+          "prediction": "Small",
+          "correct": null,
+          "timestamp": "2025-03-15T11:58:37.227844"
+        }
+      ],
+      "last_results": {
+        "BDGWIN_WINGO": [
+          "Big",
+          "Small",
+          "Big",
+          "Big",
+          "Small",
+          "Big",
+          "Small",
+          "Small",
+          "Small",
+          "Small"
+        ],
+        "DAMAN_WINGO": [
+          "Big",
+          "Small",
+          "Big",
+          "Small",
+          "Small",
+          "Big",
+          "Small",
+          "Small",
+          "Small",
+          "Big"
+        ]
+      },
+      "last_predictions": {
+        "WINGO": {
+          "prediction": "Small",
+          "timestamp": "2025-03-15T11:58:37.227846"
+        }
+      }
+    },
+    "6085888608": {
+      "username": "Tanvisingh26",
+      "joined_date": "2025-03-14T18:08:14.405597",
+      "is_pro": false,
+      "free_predictions_left": 5,
+      "free_expiry": "2025-03-21T18:08:14.405592",
+      "prediction_history": [],
+      "last_results": {},
+      "last_predictions": {}
+    },
+    "7396065008": {
+      "username": "DewElloya",
+      "joined_date": "2025-03-14T19:35:54.299344",
+      "is_pro": false,
+      "free_predictions": 5,
+      "free_expiry": "2025-03-21T19:35:54.299338",
+      "prediction_history": [],
+      "last_results": {},
+      "last_predictions": {}
+    }
+  },
+  "games": {
+    "WINGO": {
+      "cooldown": 0,
+      "patterns": {
+        "Big,Big": "Small",
+        "Big,Small,Big,Small": "Big",
+        "Small,Small,Big,Big": "Small",
+        "Small,Small,Small,Big,Big,Big": "Small",
+        "Big,Big,Big,Big,Big": "Small",
+        "Big,Big,Big,Big,Big,Big": "Small",
+        "Small,Small,Small,Small,Small,Small": "Small",
+        "Small,Small,Small,Small,Small": "Big",
+        "Small,Small,Big,Small,Small,Big": "Small"
+      },
+      "result_format": [
+        "Big",
+        "Small"
+      ]
+    },
+    "K3": {
+      "cooldown": 180,
+      "patterns": {},
+      "result_format": [
+        "Big Odd",
+        "Big Even",
+        "Small Odd",
+        "Small Even"
+      ]
+    }
+  },
+  "apps": [
+    "BDGWIN",
+    "TIRANGA",
+    "DAMAN"
+  ],
+  "required_channel": "@TMOG9",
+  "log_channel": "@OGPredictorLogs",
+  "free_predictions": 5,
+  "free_period_days": 7
+}
